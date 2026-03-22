@@ -11,6 +11,18 @@
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/DropShip/Hazers_Drop_Ship_Slots.EXMODZ"
       }
+    },
+    {
+      "name": "Fillable",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Fillable increased",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Fillable/Fill.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Fillable/readmeFILL.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Fillable/Hazers Fillable Increased.EXMODZ"
+      }
     }
   ]
 }
