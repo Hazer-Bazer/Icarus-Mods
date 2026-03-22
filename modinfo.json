@@ -23,6 +23,18 @@
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Fillable/Hazers Fillable Increased.EXMODZ"
       }
+    },
+    {
+      "name": "Higher Energy",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Higher Energy Production ",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/increased Energy.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/readmeHIGHER ENERGY.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Higher_Energy_Production/Hazers_Higher_Energy_Production.EXMODZ"
+      }
     }
   ]
 }
