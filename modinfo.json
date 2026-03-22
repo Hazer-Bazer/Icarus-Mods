@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "DropShip",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "DropShip Slots increased from 15 - 30.",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/DropShip/DropShip.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/DropShip/readmeDROPSHIP.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/DropShip/Hazers_Drop_Ship_Slots.EXMODZ"
+      }
+    }
+  ]
+}
