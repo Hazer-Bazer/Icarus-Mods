@@ -29,11 +29,59 @@
       "author": "Hazer",
       "version": "1.0",
       "compatibility": "224",
-      "description": "Higher Energy Production ",
+      "description": "Higher Energy Production",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/increased Energy.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/readmeHIGHER ENERGY.txt",
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Higher_Energy_Production/Hazers_Higher_Energy_Production.EXMODZ"
+      }
+    },
+    {
+      "name": "Lower Energy",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Lower Energy Cost",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Lower Energy Cost/Lower Energy.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Lower Energy Cost/readmeLOWERENER.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Lower Energy Cost/Hazers_Lower_Energy_Costs.EXMODZ"
+      }
+    },
+    {
+      "name": "More Backpack Slots",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "More Start Backpack Slots - 42",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/More Backpack Slots/Backpack.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/More Backpack Slots/readme.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/More Backpack Slots/Hazers_More_Start_Backpack_Slots.EXMODZ"
+      }
+    },
+    {
+      "name": "Non Stackable Stacks",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Make some Items Stackable",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Non Stackable Stacks/Non Stackable.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Non Stackable Stacks/readmeNONSTACK.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Non Stackable Stacks/Hazers_Non_Stackable_Stacks.EXMODZ"
+      }
+    },
+    {
+      "name": "New Props",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Create and place new props ",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Props/Props.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Props/readmePROPS.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Props/Hazers_Props.EXMODZ"
       }
     }
   ]
