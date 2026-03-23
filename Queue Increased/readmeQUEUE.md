@@ -1,5 +1,3 @@
-Here is the English version of the Readme for your Queue Increased mod, following your established Icarus-style layout.
-
 Queue Increased
 by Hazer
 📦 Description
