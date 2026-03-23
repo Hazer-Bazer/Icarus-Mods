@@ -77,11 +77,35 @@
       "author": "Hazer",
       "version": "1.0",
       "compatibility": "224",
-      "description": "Create and place new props ",
+      "description": "Create and place new props",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Props/Props.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Props/readmePROPS.txt",
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Props/Hazers_Props.EXMODZ"
+      }
+    },
+    {
+      "name": "Reduced Energy Consumption",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/Reduced.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/readmeREDUCED.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Reduced Material Cost/Hazers Reduced Material Costs and Speed Up.EXMODZ"
+      },
+      "description": "Lower energy consumption for workbenches, air conditioning, heating, lights, etc. ",
+      "version": "1.0",
+      "compatibility": "224",
+      "author": "Hazer"
+    },
+    {
+      "name": "Faster Taming Speed",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Faster Taming and Gestation Speed",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Taming Speed/Taming Speed.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Taming Speed/readmeTAMING.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Taming Speed/Hazers_Taming_Speed.EXMODZ"
       }
     }
   ]
