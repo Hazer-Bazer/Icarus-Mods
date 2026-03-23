@@ -215,6 +215,18 @@
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/All In One + Stack 250/Hazers ALL IN ONE + STACK 250.EXMODZ"
       }
+    },
+    {
+      "name": "Range Extented",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Extended range for fire pits, fireplaces, heaters, coolers, and more",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Range Extented/RANGEEX.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Range Extented/readmeRANGEEX.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Range Extented/Hazers_Range_Extented.EXMODZ"
+      }
     }
   ]
 }
