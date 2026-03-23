@@ -185,11 +185,35 @@
       "author": "Hazer",
       "version": "1.0",
       "compatibility": "224",
-      "description": "Displays the correct level without enforcing the level 60 restriction. ",
+      "description": "Displays the correct level without enforcing the level 60 restriction.",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/True Level/TRUELVL.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/True Level/readmeTRUELVL.md",
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/True Level/Hazers_True_Level.EXMODZ"
+      }
+    },
+    {
+      "name": "All In One",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Combines several of my mods into one, including energy production, fillable and DropShip slots, and more",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One/AllInOne.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One/readmeALLIN.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/All In One/Hazers_ALL_IN_ONE.EXMODZ"
+      }
+    },
+    {
+      "name": "All In One + 250",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Combines several of my mods into one, including energy production, fillable and DropShip slots, + Stacks 250 and more",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One + Stack 250/AllInOne+250.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One + Stack 250/readmeALLIN+250.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/All In One + Stack 250/Hazers ALL IN ONE + STACK 250.EXMODZ"
       }
     }
   ]
