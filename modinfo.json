@@ -227,6 +227,18 @@
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Range Extented/Hazers_Range_Extented.EXMODZ"
       }
+    },
+    {
+      "name": "Dev Tools",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Mod Tools, Thors Hammer, ReSize, Destroy etc.",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Dev Tools/DEVTOOL.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Dev Tools/readmeDEVTOOL.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Dev Tools/Hazers_Dev_Tools.EXMODZ"
+      }
     }
   ]
 }
