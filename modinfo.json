@@ -110,15 +110,27 @@
     },
     {
       "name": "Queue increased",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "More queue spots on many benches and on the character itself",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Queue Increased/Queue.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Queue Increased/readmeQUEUE.txt",
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Queue Increased/Hazers_Queue_Increased.EXMODZ"
-      },
-      "description": "More queue spots on many benches and on the character itself",
+      }
+    },
+    {
+      "name": "Place WaterWheel",
       "author": "Hazer",
       "version": "1.0",
-      "compatibility": "224"
+      "compatibility": "224",
+      "description": "Place the waterwheel in still water if there is no flowing water nearby",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Water Wheel/WaterWheel.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Water Wheel/readmeWATERWHEEL.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Water Wheel/Hazers_Place_Water_Wheel_Everywhere.EXMODZ"
+      }
     }
   ]
 }
