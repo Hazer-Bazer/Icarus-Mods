@@ -131,6 +131,54 @@
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Water Wheel/Hazers_Place_Water_Wheel_Everywhere.EXMODZ"
       }
+    },
+    {
+      "name": "Stacks 250",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 250/STACK250.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 250/Stacks 250.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 250/Hazers_Increased_All_Slots_250.EXMODZ"
+      },
+      "description": "Increase your Stacks up to 250!",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224"
+    },
+    {
+      "name": "Stacks 500",
+      "description": "Increase your Stacks up to 500!",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 500/STACK500.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 500/Stacks 500.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 500/Hazers_Increased_All_Slots_500.EXMODZ"
+      }
+    },
+    {
+      "name": "Stacks 750",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Increase your Stacks up to 750!",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 750/STACK750.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 750/Stacks 750.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 750/Hazers_Increased_All_Slots_750.EXMODZ"
+      }
+    },
+    {
+      "name": "Stacks 1K",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Increase your Stacks up to 1K. ",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 1K/STACK1K.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 1K/Stacks 1000.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 1K/Hazers_Increased_All_Slots_1K.EXMODZ"
+      }
     }
   ]
 }
