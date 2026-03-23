@@ -134,22 +134,22 @@
     },
     {
       "name": "Stacks 250",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Increase your Stacks up to 250!",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 250/STACK250.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 250/Stacks 250.md",
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 250/Hazers_Increased_All_Slots_250.EXMODZ"
-      },
-      "description": "Increase your Stacks up to 250!",
-      "author": "Hazer",
-      "version": "1.0",
-      "compatibility": "224"
+      }
     },
     {
       "name": "Stacks 500",
-      "description": "Increase your Stacks up to 500!",
       "author": "Hazer",
       "version": "1.0",
       "compatibility": "224",
+      "description": "Increase your Stacks up to 500!",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 500/STACK500.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 500/Stacks 500.md",
       "files": {
@@ -173,11 +173,23 @@
       "author": "Hazer",
       "version": "1.0",
       "compatibility": "224",
-      "description": "Increase your Stacks up to 1K. ",
+      "description": "Increase your Stacks up to 1K.",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 1K/STACK1K.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 1K/Stacks 1000.md",
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 1K/Hazers_Increased_All_Slots_1K.EXMODZ"
+      }
+    },
+    {
+      "name": "True Level",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224",
+      "description": "Displays the correct level without enforcing the level 60 restriction. ",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/True Level/TRUELVL.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/True Level/readmeTRUELVL.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/True Level/Hazers_True_Level.EXMODZ"
       }
     }
   ]
