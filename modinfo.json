@@ -107,6 +107,18 @@
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Taming Speed/Hazers_Taming_Speed.EXMODZ"
       }
+    },
+    {
+      "name": "Queue increased",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Queue Increased/Queue.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Queue Increased/readmeQUEUE.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Queue Increased/Hazers_Queue_Increased.EXMODZ"
+      },
+      "description": "More queue spots on many benches and on the character itself",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "224"
     }
   ]
 }
