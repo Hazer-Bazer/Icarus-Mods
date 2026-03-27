@@ -4,6 +4,8 @@
 
 **Hazers Higher Energy Production** is a mod for **ICARUS** that increases the **power output of energy-producing devices**, allowing you to generate significantly more electricity with the same infrastructure.
 
+Now with the Pump Jack Oil increase.
+
 Created by **Hazer / Shelly3000**, this mod is designed to improve efficiency, reduce the need for excessive generator setups, and support larger, more complex bases without constant power shortages.
 
 Perfect for players who:

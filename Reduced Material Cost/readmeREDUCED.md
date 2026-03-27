@@ -4,6 +4,8 @@
 
 **Hazers Reduced Material Costs and Speed Up** is a mod for **ICARUS** that rebalances crafting by **reducing material requirements** and **significantly speeding up crafting times**.
 
+Now with Wooden & Bone Tools
+
 Created by **Hazer / Shelly3000**, this mod is designed to streamline progression, reduce grind, and make the overall gameplay experience smoother and more enjoyable—without removing the core survival challenge.
 
 Perfect for players who:

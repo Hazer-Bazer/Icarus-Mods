@@ -3,6 +3,8 @@ Hazers ALL IN ONE + 250 Stack
 
 Hazers ALL IN ONE is a comprehensive mod for ICARUS that combines multiple quality-of-life improvements from other mods by Hazer / Shelly3000 into a single package.
 
+The Oil Barrels were removed because they had been overwritten during stacking—specifically, the ones that were the emptiest.
+
 This all-in-one solution enhances various aspects of the game, including energy production, inventory management, loadout capacity, + 250 Stacks and more, providing a smoother and less restrictive gameplay experience.
 
 Perfect for players who:
