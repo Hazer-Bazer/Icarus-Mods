@@ -28,8 +28,8 @@
       "name": "Higher Energy",
       "author": "Hazer",
       "version": "1.0",
-      "compatibility": "224",
-      "description": "Higher Energy Production",
+      "compatibility": "225",
+      "description": "Higher Energy Production (now with Pump Jack Oil increase)",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/increased Energy.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/readmeHIGHER ENERGY.txt",
       "files": {
@@ -88,8 +88,8 @@
       "name": "Reduced Energy Consumption",
       "author": "Hazer",
       "version": "1.0",
-      "compatibility": "224",
-      "description": "Lower energy consumption for workbenches, air conditioning, heating, lights, etc.",
+      "compatibility": "225",
+      "description": "Lower energy consumption for workbenches, air conditioning, heating, lights, etc. (now with Wooden an Bone Tools)",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/Reduced.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/readmeREDUCED.txt",
       "files": {
@@ -208,8 +208,8 @@
       "name": "All In One + 250",
       "author": "Hazer",
       "version": "1.01",
-      "compatibility": "224",
-      "description": "Combines several of my mods into one, including energy production, fillable and DropShip slots, + Stacks 250 and more",
+      "compatibility": "225",
+      "description": "Combines several of my mods into one, including energy production, fillable and DropShip slots, + Stacks 250 (removed the Oil Barrels because they loose the Oil when they stack with an empty Barrel)",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One + Stack 250/AllInOne+250.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One + Stack 250/readmeALLIN+250.md",
       "files": {
