@@ -4,6 +4,9 @@ by Hazer
 
 Diese Mod für ICARUS beschleunigt den Zähmungsprozess und die Tragzeit von Tieren erheblich. Sie ist darauf ausgelegt, das Gameplay effizienter zu gestalten, damit du weniger Zeit mit Warten und mehr Zeit mit deinen Begleitern verbringen kannst.
 
+increased the Taming Speed (Wolf) 
+New animals included. Young animals spawn more frequently and in groups near their parents.
+
 Perfekt für Spieler, die:
 
 den Fokus auf Erkundung statt auf langes Warten legen wollen
