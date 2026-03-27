@@ -4,6 +4,8 @@
 
 **Hazers Non-Stackable Stacks** is a mod for **ICARUS** that makes previously **non-stackable items stackable**, allowing you to store multiple units of those items in a single inventory slot.
 
+Remove the Oil Barrels
+
 Created by **Hazer / Shelly3000**, this mod significantly improves inventory management and reduces clutter caused by items that normally cannot stack.
 
 Perfect for players who:
