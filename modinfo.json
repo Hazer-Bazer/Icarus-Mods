@@ -251,6 +251,19 @@
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Charging Backpacks/Hazers_Charging_Backpacks.EXMODZ"
       }
+    },
+    {
+      "name": "No Weather",
+      "author": "Hazer",
+      "version": "1.0",
+      "compatibility": "225",
+      "description": "Removes all Storms, Heatwaves etc. from all Maps and Bioms",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/No Weather/No Weather.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/No Weather/readmeNOWEATHER.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/No Weather/Hazers_No_Weather.EXMODZ",
+        "pak": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/No Weather/Hazers_No_Weather_P.pak"
+      }
     }
   ]
 }
