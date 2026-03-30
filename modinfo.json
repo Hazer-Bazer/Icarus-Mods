@@ -3,7 +3,7 @@
     {
       "name": "DropShip",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "DropShip Slots increased from 15 - 30.",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/DropShip/DropShip.png",
@@ -15,7 +15,7 @@
     {
       "name": "Fillable",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Fillable increased",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Fillable/Fill.png",
@@ -39,7 +39,7 @@
     {
       "name": "Lower Energy",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Lower Energy Cost",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Lower Energy Cost/Lower Energy.png",
@@ -51,7 +51,7 @@
     {
       "name": "More Backpack Slots",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "More Start Backpack Slots - 42",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/More Backpack Slots/Backpack.png",
@@ -75,7 +75,7 @@
     {
       "name": "New Props",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Create and place new props",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Props/Props.png",
@@ -111,7 +111,7 @@
     {
       "name": "Queue increased",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "More queue spots on many benches and on the character itself",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Queue Increased/Queue.png",
@@ -123,7 +123,7 @@
     {
       "name": "Place WaterWheel",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Place the waterwheel in still water if there is no flowing water nearby",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Water Wheel/WaterWheel.png",
@@ -135,7 +135,7 @@
     {
       "name": "Stacks 250",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Increase your Stacks up to 250!",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 250/STACK250.png",
@@ -147,7 +147,7 @@
     {
       "name": "Stacks 500",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Increase your Stacks up to 500!",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 500/STACK500.png",
@@ -159,7 +159,7 @@
     {
       "name": "Stacks 750",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Increase your Stacks up to 750!",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 750/STACK750.png",
@@ -171,7 +171,7 @@
     {
       "name": "Stacks 1K",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Increase your Stacks up to 1K.",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 1K/STACK1K.png",
@@ -183,7 +183,7 @@
     {
       "name": "True Level",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Displays the correct level without enforcing the level 60 restriction.",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/True Level/TRUELVL.png",
@@ -195,7 +195,7 @@
     {
       "name": "All In One",
       "author": "Hazer",
-      "version": "1.01",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Combines several of my mods into one, including energy production, fillable and DropShip slots, and more",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One/AllInOne.png",
@@ -219,7 +219,7 @@
     {
       "name": "Range Extented",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Extended range for fire pits, fireplaces, heaters, coolers, and more",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Range Extented/RANGEEX.png",
@@ -231,7 +231,7 @@
     {
       "name": "Dev Tools",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Mod Tools, Thors Hammer, ReSize, Destroy etc.",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Dev Tools/DEVTOOL.png",
@@ -243,7 +243,7 @@
     {
       "name": "Charging Backpacks",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Charging Backpacks",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Charging Backpacks/ChargingBackpacks.png",
@@ -255,7 +255,7 @@
     {
       "name": "No Weather",
       "author": "Hazer",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "225",
       "description": "Removes all Storms, Heatwaves etc. from all Maps and Bioms",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/No Weather/No Weather.png",
