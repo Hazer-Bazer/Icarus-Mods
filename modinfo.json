@@ -1,329 +1,281 @@
 {
-    "mods": [
-        {
-            "name": "DropShip",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "DropShip Slots increased from 15 - 30.",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/DropShip/DropShip.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/DropShip/readmeDROPSHIP.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/DropShip/Hazers_Drop_Ship_Slots.EXMODZ"
-            }
-        },
-        {
-            "name": "Fillable",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Fillable increased",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Fillable/Fill.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Fillable/readmeFILL.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Fillable/Hazers Fillable Increased.EXMODZ"
-            }
-        },
-        {
-            "name": "Higher Energy",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Higher Energy Production (now with Pump Jack Oil increase)",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/increased Energy.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/readmeHIGHER ENERGY.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Higher_Energy_Production/Hazers_Higher_Energy_Production.EXMODZ"
-            }
-        },
-        {
-            "name": "Lower Energy",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Lower Energy Cost",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Lower Energy Cost/Lower Energy.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Lower Energy Cost/readmeLOWERENER.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Lower Energy Cost/Hazers_Lower_Energy_Costs.EXMODZ"
-            }
-        },
-        {
-            "name": "More Backpack Slots",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "More Start Backpack Slots - 42",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/More Backpack Slots/Backpack.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/More Backpack Slots/readme.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/More Backpack Slots/Hazers_More_Start_Backpack_Slots.EXMODZ"
-            }
-        },
-        {
-            "name": "Non Stackable Stacks",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Make some Items Stackable (remove the Oil Barrels)",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Non Stackable Stacks/Non Stackable.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Non Stackable Stacks/readmeNONSTACK.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Non Stackable Stacks/Hazers_Non_Stackable_Stacks.EXMODZ"
-            }
-        },
-        {
-            "name": "New Props",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Create and place new props",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Props/Props.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Props/readmePROPS.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Props/Hazers_Props.EXMODZ"
-            }
-        },
-        {
-            "name": "Reduced Energy Consumption",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Lower energy consumption for workbenches, air conditioning, heating, lights, etc. (now with Wooden an Bone Tools)",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/Reduced.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/readmeREDUCED.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Reduced Material Cost/Hazers Reduced Material Costs and Speed Up.EXMODZ"
-            }
-        },
-        {
-            "name": "Faster Taming Speed",
-            "author": "Hazer",
-            "version": "1.1.226",
-            "compatibility": "226",
-            "description": "Faster Taming and Gestation Speed.\n\nNew animals included. Young animals spawn more frequently and in groups near their parents.",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Taming Speed/Taming Speed.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Taming Speed/readmeTAMING.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Taming Speed/Hazers_Taming_Speed.EXMODZ"
-            }
-        },
-        {
-            "name": "Queue increased",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "More queue spots on many benches and on the character itself",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Queue Increased/Queue.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Queue Increased/readmeQUEUE.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Queue Increased/Hazers_Queue_Increased.EXMODZ"
-            }
-        },
-        {
-            "name": "Place WaterWheel",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Place the waterwheel in still water if there is no flowing water nearby",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Water Wheel/WaterWheel.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Water Wheel/readmeWATERWHEEL.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Water Wheel/Hazers_Place_Water_Wheel_Everywhere.EXMODZ"
-            }
-        },
-        {
-            "name": "Stacks 250",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Increase your Stacks up to 250!",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 250/STACK250.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 250/Stacks 250.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 250/Hazers_Increased_All_Slots_250.EXMODZ"
-            }
-        },
-        {
-            "name": "Stacks 500",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Increase your Stacks up to 500!",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 500/STACK500.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 500/Stacks 500.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 500/Hazers_Increased_All_Slots_500.EXMODZ"
-            }
-        },
-        {
-            "name": "Stacks 750",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Increase your Stacks up to 750!",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 750/STACK750.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 750/Stacks 750.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 750/Hazers_Increased_All_Slots_750.EXMODZ"
-            }
-        },
-        {
-            "name": "Stacks 1K",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Increase your Stacks up to 1K.",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 1K/STACK1K.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 1K/Stacks 1000.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 1K/Hazers_Increased_All_Slots_1K.EXMODZ"
-            }
-        },
-        {
-            "name": "True Level",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Displays the correct level without enforcing the level 60 restriction.",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/True Level/TRUELVL.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/True Level/readmeTRUELVL.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/True Level/Hazers_True_Level.EXMODZ"
-            }
-        },
-        {
-            "name": "All In One",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Combines several of my mods into one, including energy production, fillable and DropShip slots, and more",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One/AllInOne.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One/readmeALLIN.txt",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/All In One/Hazers_ALL_IN_ONE.EXMODZ"
-            }
-        },
-        {
-            "name": "All In One + 250",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Combines several of my mods into one, including energy production, fillable and DropShip slots, + Stacks 250 (removed the Oil Barrels because they loose the Oil when they stack with an empty Barrel)",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One + Stack 250/AllInOne+250.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One + Stack 250/readmeALLIN+250.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/All In One + Stack 250/Hazers ALL IN ONE + STACK 250.EXMODZ"
-            }
-        },
-        {
-            "name": "Range Extented",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Extended range for fire pits, fireplaces, heaters, coolers, and more",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Range Extented/RANGEEX.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Range Extented/readmeRANGEEX.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Range Extented/Hazers_Range_Extented.EXMODZ"
-            }
-        },
-        {
-            "name": "Dev Tools",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Mod Tools, Thors Hammer, ReSize, Destroy etc.",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Dev Tools/DEVTOOL.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Dev Tools/readmeDEVTOOL.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Dev Tools/Hazers_Dev_Tools.EXMODZ"
-            }
-        },
-        {
-            "name": "Charging Backpacks",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Charging Backpacks",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Charging Backpacks/ChargingBackpacks.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Charging Backpacks/readmeCHARGE.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Charging Backpacks/Hazers_Charging_Backpacks.EXMODZ"
-            }
-        },
-        {
-            "name": "No Weather",
-            "author": "Hazer",
-            "version": "1.1",
-            "compatibility": "226",
-            "description": "Removes all Storms, Heatwaves etc. from all Maps and Bioms",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/No Weather/No Weather.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/No Weather/readmeNOWEATHER.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/No Weather/Hazers_No_Weather.EXMODZ",
-                "pak": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/No Weather/Hazers_No_Weather_P.pak"
-            }
-        },
-        {
-            "name": "Lowe Expositions",
-            "author": "Hazer",
-            "version": "1.0",
-            "compatibility": "226",
-            "description": "This mod for ICARUS significantly tones down the planet's harshest environmental elements. It provides a more forgiving and focused survival experience by scaling back exposure effects and neutralizing cave-related hazards, allowing you to explore the surface and sub-surface without constant debuffs.",
-            "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Low Expo/NOEXPO.png",
-            "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Low Expo/readmeNOEXPO.md",
-            "files": {
-                "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Low Expo/Hazers_Low_Exposition.EXMODZ"
-            }
-        }
-    ],
-    "Rows": [
-        {
-            "CurrentFile": "Crafting-D_ProcessorRecipes.json",
-            "File_Items": [
-                {
-                    "Name": "Raw_Uranium",
-                    "RequiredMillijoules": 1000,
-                    "RecipeSets": [
-                        {
-                            "RowName": "Manufacturer",
-                            "DataTableName": "D_RecipeSets"
-                        }
-                    ],
-                    "Inputs": [
-                        {
-                            "Element": {
-                                "RowName": "Sulfur",
-                                "DataTableName": "D_ItemsStatic"
-                            },
-                            "Count": 0
-                        }
-                    ],
-                    "ResourceInputs": [
-                        {
-                            "Type": {
-                                "Value": "Water"
-                            },
-                            "RequiredUnits": 0
-                        }
-                    ],
-                    "Outputs": [
-                        {
-                            "Element": {
-                                "RowName": "Uranium_Raw",
-                                "DataTableName": "D_ItemTemplate"
-                            },
-                            "Count": 50,
-                            "DynamicProperties": [],
-                            "Alterations": []
-                        }
-                    ],
-                    "Audio": {
-                        "RowName": "T5ManufacturingUnit"
-                    }
-                }
-            ]
-        }
-    ]
+  "mods": [
+    {
+      "name": "DropShip",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "DropShip Slots increased from 15 - 30.",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/DropShip/DropShip.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/DropShip/readmeDROPSHIP.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/DropShip/Hazers_Drop_Ship_Slots.EXMODZ"
+      }
+    },
+    {
+      "name": "Fillable",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Fillable increased",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Fillable/Fill.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Fillable/readmeFILL.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Fillable/Hazers Fillable Increased.EXMODZ"
+      }
+    },
+    {
+      "name": "Higher Energy",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Higher Energy Production (now with Pump Jack Oil increase)",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/increased Energy.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Higher_Energy_Production/readmeHIGHER ENERGY.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Higher_Energy_Production/Hazers_Higher_Energy_Production.EXMODZ"
+      }
+    },
+    {
+      "name": "Lower Energy",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Lower Energy Cost",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Lower Energy Cost/Lower Energy.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Lower Energy Cost/readmeLOWERENER.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Lower Energy Cost/Hazers_Lower_Energy_Costs.EXMODZ"
+      }
+    },
+    {
+      "name": "More Backpack Slots",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "More Start Backpack Slots - 42",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/More Backpack Slots/Backpack.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/More Backpack Slots/readme.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/More Backpack Slots/Hazers_More_Start_Backpack_Slots.EXMODZ"
+      }
+    },
+    {
+      "name": "Non Stackable Stacks",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Make some Items Stackable (remove the Oil Barrels)",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Non Stackable Stacks/Non Stackable.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Non Stackable Stacks/readmeNONSTACK.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Non Stackable Stacks/Hazers_Non_Stackable_Stacks.EXMODZ"
+      }
+    },
+    {
+      "name": "New Props",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Create and place new props",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Props/Props.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Props/readmePROPS.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Props/Hazers_Props.EXMODZ"
+      }
+    },
+    {
+      "name": "Reduced Energy Consumption",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Lower energy consumption for workbenches, air conditioning, heating, lights, etc. (now with Wooden an Bone Tools)",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/Reduced.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/readmeREDUCED.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Reduced Material Cost/Hazers Reduced Material Costs and Speed Up.EXMODZ"
+      }
+    },
+    {
+      "name": "Faster Taming Speed",
+      "author": "Hazer",
+      "version": "1.1.226",
+      "compatibility": "226",
+      "description": "Faster Taming and Gestation Speed.\n\nNew animals included. Young animals spawn more frequently and in groups near their parents.",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Taming Speed/Taming Speed.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Taming Speed/readmeTAMING.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Taming Speed/Hazers_Taming_Speed.EXMODZ"
+      }
+    },
+    {
+      "name": "Queue increased",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "More queue spots on many benches and on the character itself",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Queue Increased/Queue.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Queue Increased/readmeQUEUE.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Queue Increased/Hazers_Queue_Increased.EXMODZ"
+      }
+    },
+    {
+      "name": "Place WaterWheel",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Place the waterwheel in still water if there is no flowing water nearby",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Water Wheel/WaterWheel.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Water Wheel/readmeWATERWHEEL.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Water Wheel/Hazers_Place_Water_Wheel_Everywhere.EXMODZ"
+      }
+    },
+    {
+      "name": "Stacks 250",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Increase your Stacks up to 250!",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 250/STACK250.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 250/Stacks 250.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 250/Hazers_Increased_All_Slots_250.EXMODZ"
+      }
+    },
+    {
+      "name": "Stacks 500",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Increase your Stacks up to 500!",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 500/STACK500.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 500/Stacks 500.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 500/Hazers_Increased_All_Slots_500.EXMODZ"
+      }
+    },
+    {
+      "name": "Stacks 750",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Increase your Stacks up to 750!",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 750/STACK750.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 750/Stacks 750.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 750/Hazers_Increased_All_Slots_750.EXMODZ"
+      }
+    },
+    {
+      "name": "Stacks 1K",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Increase your Stacks up to 1K.",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 1K/STACK1K.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Stacks 1K/Stacks 1000.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Stacks 1K/Hazers_Increased_All_Slots_1K.EXMODZ"
+      }
+    },
+    {
+      "name": "True Level",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Displays the correct level without enforcing the level 60 restriction.",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/True Level/TRUELVL.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/True Level/readmeTRUELVL.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/True Level/Hazers_True_Level.EXMODZ"
+      }
+    },
+    {
+      "name": "All In One",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Combines several of my mods into one, including energy production, fillable and DropShip slots, and more",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One/AllInOne.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One/readmeALLIN.txt",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/All In One/Hazers_ALL_IN_ONE.EXMODZ"
+      }
+    },
+    {
+      "name": "All In One + 250",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Combines several of my mods into one, including energy production, fillable and DropShip slots, + Stacks 250 (removed the Oil Barrels because they loose the Oil when they stack with an empty Barrel)",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One + Stack 250/AllInOne+250.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/All In One + Stack 250/readmeALLIN+250.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/All In One + Stack 250/Hazers ALL IN ONE + STACK 250.EXMODZ"
+      }
+    },
+    {
+      "name": "Range Extented",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Extended range for fire pits, fireplaces, heaters, coolers, and more",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Range Extented/RANGEEX.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Range Extented/readmeRANGEEX.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Range Extented/Hazers_Range_Extented.EXMODZ"
+      }
+    },
+    {
+      "name": "Dev Tools",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Mod Tools, Thors Hammer, ReSize, Destroy etc.",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Dev Tools/DEVTOOL.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Dev Tools/readmeDEVTOOL.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Dev Tools/Hazers_Dev_Tools.EXMODZ"
+      }
+    },
+    {
+      "name": "Charging Backpacks",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Charging Backpacks",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Charging Backpacks/ChargingBackpacks.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Charging Backpacks/readmeCHARGE.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Charging Backpacks/Hazers_Charging_Backpacks.EXMODZ"
+      }
+    },
+    {
+      "name": "No Weather",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "Removes all Storms, Heatwaves etc. from all Maps and Bioms",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/No Weather/No Weather.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/No Weather/readmeNOWEATHER.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/No Weather/Hazers_No_Weather.EXMODZ",
+        "pak": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/No Weather/Hazers_No_Weather_P.pak"
+      }
+    },
+    {
+      "name": "Lowe Expositions",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "226",
+      "description": "This mod for ICARUS significantly tones down the planet's harshest environmental elements. It provides a more forgiving and focused survival experience by scaling back exposure effects and neutralizing cave-related hazards, allowing you to explore the surface and sub-surface without constant debuffs.",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Low Expo/NOEXPO.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Low Expo/readmeNOEXPO.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Low Expo/Hazers_Low_Exposition.EXMODZ"
+      }
+    }
+  ]
 }
