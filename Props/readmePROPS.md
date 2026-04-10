@@ -1,6 +1,6 @@
 # Hazers Props
 
-
+V. 1.2. added the "Comfort Level" to each new Item
 
 ## 📦 Description
 
