@@ -2,6 +2,13 @@ Dev Tools
 by Hazer
 📦 Description
 
+V.1.2.
+
+Icons sorted in the Workshop. 
+
+
+
+
 This mod for ICARUS unlocks and enhances various developer tools and debug features. It provides advanced users and modders with the necessary utilities to inspect game data, test mechanics, and streamline the creation of new content within the game environment.
 
 Perfect for players who:
