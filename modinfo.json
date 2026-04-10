@@ -276,6 +276,17 @@
       "files": {
         "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Low Expo/Hazers_Low_Exposition.EXMODZ"
       }
+    },
+    {
+      "name": "Workshop Attachments",
+      "author": "Hazer",
+      "version": "1.1",
+      "compatibility": "227",
+      "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Workshop Attachments/HazersWorkshopAttachments.png",
+      "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Workshop Attachments/ReadmeWORKSHOP.md",
+      "files": {
+        "exmodz": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/refs/heads/main/Workshop Attachments/Hazers_Workshop_Attachments.EXMODZ"
+      }
     }
   ]
 }
