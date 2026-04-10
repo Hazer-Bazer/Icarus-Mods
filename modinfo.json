@@ -85,10 +85,10 @@
       }
     },
     {
-      "name": "Reduced Energy Consumption",
+      "name": "Reduced Costs",
       "author": "Hazer",
-      "version": "1.1",
-      "compatibility": "226",
+      "version": "1.2",
+      "compatibility": "227",
       "description": "Lower energy consumption for workbenches, air conditioning, heating, lights, etc. (now with Wooden an Bone Tools)",
       "imageURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/Reduced.png",
       "readmeURL": "https://github.com/Hazer-Bazer/Icarus-Mods/raw/main/Reduced Material Cost/readmeREDUCED.txt",
