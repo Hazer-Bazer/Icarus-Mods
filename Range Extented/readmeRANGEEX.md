@@ -2,6 +2,10 @@ Range Extended
 by Hazer
 📦 Description
 
+V. 1.2. 
+
+Range extended, plus OuterRange for the Large Heater
+
 This mod for ICARUS significantly extends the effective range of temperature-altering objects. It allows devices like Heaters, Fireplaces, Coolers, and Firepits to cover a much larger area, ensuring your base stays comfortable without needing to place an excessive number of units.
 
 Perfect for players who:
