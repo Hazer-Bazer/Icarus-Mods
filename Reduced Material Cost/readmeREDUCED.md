@@ -1,5 +1,7 @@
 # Hazers Reduced Material Costs and Speed Up
 
+New Items Included. Iron Ingot, Aluminium, Glass 1- 3 and many more
+
 ## 📦 Description
 
 **Hazers Reduced Material Costs and Speed Up** is a mod for **ICARUS** that rebalances crafting by **reducing material requirements** and **significantly speeding up crafting times**.
